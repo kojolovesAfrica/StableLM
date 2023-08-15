@@ -1,4 +1,5 @@
-{
+PRINT_CONFIG = {STABLELM_BASE_ALPHA_7B_V2 = {
+  
   # parallelism settings
   "pipe-parallel-size": 1,
   "model-parallel-size": 2,
